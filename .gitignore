@@ -1,4 +1,4 @@
 venv
 in
-output
 audio
+__pycache__/
